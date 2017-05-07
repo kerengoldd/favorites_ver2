@@ -1,0 +1,99 @@
+[ {"user":"keren",
+  "Ufavorites":[
+  {
+    "Name": "50 shades",
+    "Rating": 1,
+    "Month": "March",
+    "Category":"Romance"
+  },
+  {
+    "Name": "Spongbob",
+    "Rating": 12,
+    "Month": "March",
+    "Category":"Children"
+  },
+  {
+    "Name": "Aladin",
+    "Rating": 2,
+    "Month": "Aprirl",
+    "Category":"Children"
+  },
+  {
+    "Name": "Charly & half",
+    "Rating": 3,
+    "Month": "August",
+    "Category":"Israeli"
+  },
+  {
+    "Name": "Grease",
+    "Rating": 8,
+    "Month": "July",
+    "Category":"Musical"
+  }
+]}, {"user":"nina",
+  "Ufavorites":[
+    {
+      "Name": "wolverine",
+      "Rating": 40,
+      "Month": "October",
+      "Category":"Action"
+    },
+    {
+      "Name": "XXX",
+      "Rating": 5,
+      "Month": "February",
+      "Category":"Action"
+    },
+    {
+      "Name": "Ted",
+      "Rating": 6,
+      "Month": "April",
+      "Category":"Comedy"
+    },
+    {
+      "Name": "Hangover",
+      "Rating": 2,
+      "Month": "Juny",
+      "Category":"Comedy"
+    },
+    {
+      "Name": "Avatar",
+      "Rating": 6,
+      "Month": "July",
+      "Category":"Sci-fi"
+    }
+  ]},
+  {"user":"maor",
+    "Ufavorites":[
+      {
+        "Name": "Hary potter",
+        "Rating": 7,
+        "Month": "March",
+        "Category":"Children"
+      },
+      {
+        "Name": "La La Land",
+        "Rating": 5,
+        "Month": "January",
+        "Category":"Romance"
+      },
+      {
+        "Name": "Alex love sick",
+        "Rating": 8,
+        "Month": "March",
+        "Category":"Israeli"
+      },
+      {
+        "Name": "50 shades darker",
+        "Rating": 9,
+        "Month": "April",
+        "Category":"Romance"
+      },
+      {
+        "Name": "Forrest Gump",
+        "Rating": 4,
+        "Month": "March",
+        "Category":"Romance"
+      }
+    ]}
+  ]
